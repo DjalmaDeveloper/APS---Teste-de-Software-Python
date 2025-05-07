@@ -1,6 +1,6 @@
-# Nome do Projeto
+# APS Teste de Software Python
 
-Breve descrição do projeto, o que ele faz e por que é útil.
+Trabalho da Faculdade (APS), incorporando um Teste de Software na Linguagem Python.
 
 ## Requisitos
 
