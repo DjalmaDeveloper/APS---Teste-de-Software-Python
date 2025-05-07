@@ -2,13 +2,13 @@
 
 Breve descri√ß√£o do projeto, o que ele faz e por que √© √∫til.
 
-## Ì≥¶ Requisitos
+## Requisitos
 
 - Python 3.8+
 - pip
 - (opcional) virtualenv
 
-## Ì¥ß Instala√ß√£o
+## Instala√ß√£o
 
 Clone o reposit√≥rio e instale as depend√™ncias:
 
